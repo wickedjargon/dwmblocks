@@ -5,9 +5,9 @@ static const Block blocks[] = {
 	{"",	"sb-network",	60,	7},
 	{"",	"sb-brightness",	60,	6},
 	{"",	"sb-battery",	60,	2},
-	{"",	"sb-headphones",	60,	3},
-	{"",	"sb-musicozy",	60,	5},
-	{"",	"sb-miniroll",	60,	8},
+	{"",	"sb-bluetooth 3C:B0:ED:A7:6A:88",	60,	3},
+	{"",	"sb-bluetooth 41:42:AB:DD:51:37",	60,	5},
+	{"",	"sb-bluetooth 10:94:97:3C:C4:41",	60,	8},
 	{"",	"sb-volume",	60,	4},
 };
 
